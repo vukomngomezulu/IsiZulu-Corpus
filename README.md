@@ -66,8 +66,8 @@ The corpus database includes:
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/zulu_corpus.git
-cd zulu_corpus
+git clone https://github.com/vukomngomezulu/IsiZulu-Corpus.git
+cd IsiZulu-Corpus
 ```
 
 Install dependencies:
